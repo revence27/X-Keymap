@@ -3,6 +3,10 @@ X Keymap
 
 The goal is to evolve this keymap slowly to where it is a clone of Mac OS X International, which I am used to.
 
-This one is for X server, though. GNOME, in Ubuntu Linux, in my case.
+In particular, after all the accentings and so on work more-or-less as they do in Mac OS X, I will later extend the finger salutes to cover other scripts I write often enough.
+
+In particular, I miss the intuitive accentings (I do not even know how to use umlauts on X!), the ligatures (I do not see more than æ on the normal X layout), the well-placed French grammatical components (non-breaking space, « angle quotes », that kind of thing), and the nice discoverability (sometimes X keymaps do not do what you want because X is confused, not because it is impossible and not because your finger salutes are wrong).
+
+This one is for X server, though. GNOME, in Ubuntu Linux, in my case. Forward march.
 
 Put it in `~/.xmodmaprc`.
