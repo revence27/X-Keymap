@@ -1,0 +1,8 @@
+X Keymap
+========
+
+The goal is to evolve this keymap slowly to where it is a clone of Mac OS X International, which I am used to.
+
+This one is for X server, though. GNOME, in Ubuntu Linux, in my case.
+
+Put it in `~/.xmodmaprc`.
