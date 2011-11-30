@@ -1,5 +1,6 @@
 ! macron
 ! Mac's Alt+V (Chinese 2nd tone)
+! Mac's doublequotes, singlequotes
 
 keycode   8 =
 keycode   9 = Escape NoSymbol Escape
