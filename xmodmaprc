@@ -1,6 +1,5 @@
 ! macron
-! Mac's Alt+V (Chinese 2nd tone)
-! Mac's doublequotes, singlequotes
+! Mac's doublequotes, singlequotes. Both.
 
 keycode   8 =
 keycode   9 = Escape NoSymbol Escape
@@ -50,7 +49,8 @@ keycode  46 = l L l L lstroke Lstroke
 ! keycode  47 = semicolon colon semicolon colon dead_acute dead_doubleacute
 ! keycode  47 = semicolon colon semicolon colon diaeresis dead_doubleacute
 keycode  47 = semicolon colon semicolon colon ellipsis dead_doubleacute
-keycode  48 = apostrophe at apostrophe at dead_circumflex dead_caron
+! keycode  48 = apostrophe at apostrophe at dead_circumflex dead_caron
+keycode  48 = apostrophe at apostrophe at leftsinglequotemark rightsinglequotemark
 ! keycode  49 = grave notsign grave notsign bar bar
 keycode  49 = grave notsign grave notsign dead_grave bar
 keycode  50 = Shift_L NoSymbol Shift_L
@@ -61,7 +61,8 @@ keycode  53 = x X x X guillemotright greater
 ! keycode  54 = c C c C cent copyright
 ! keycode  54 = c C c C ccedilla copyright
 keycode  54 = c C c C ccedilla Ccedilla
-keycode  55 = v V v V leftdoublequotemark leftsinglequotemark
+! keycode  55 = v V v V leftdoublequotemark leftsinglequotemark
+keycode  55 = v V v V dead_caron leftsinglequotemark
 keycode  56 = b B b B rightdoublequotemark rightsinglequotemark
 keycode  57 = n N n N n N
 keycode  58 = m M m M mu masculine
